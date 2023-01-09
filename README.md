@@ -25,6 +25,8 @@
 </details>
 
 # About the Project
+<div align="center"><img src=https://user-images.githubusercontent.com/70145314/211251139-efe20c28-fe66-45d4-a832-5bd64be83734.png width="700"></div> 
+
 
 <h4 align="center">한국 민속촌 체험의 강점과 약점 파악 <br/></h4>
 
